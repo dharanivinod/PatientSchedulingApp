@@ -12,3 +12,8 @@ Thumbs.db
 *.temp
 nul
 */settings.local.json
+
+# PropelIQ-Copilot Framework
+.github/*
+.propel/templates/*
+.vscode/mcp.json
